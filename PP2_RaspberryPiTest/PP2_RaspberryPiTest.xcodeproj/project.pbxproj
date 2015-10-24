@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4087F03E1BD613A9002FE579 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4087F03D1BD613A9002FE579 /* main.cpp */; };
+		40A768661BD84F21001C4A83 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 40A768651BD84F21001C4A83 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		4087F0381BD613A9002FE579 /* CopyFiles */ = {
+		40A768601BD84F21001C4A83 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		4087F03A1BD613A9002FE579 /* TC2017_PP2_A01021472 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TC2017_PP2_A01021472; sourceTree = BUILT_PRODUCTS_DIR; };
-		4087F03D1BD613A9002FE579 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		40A768621BD84F21001C4A83 /* PP2_RaspberryPiTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PP2_RaspberryPiTest; sourceTree = BUILT_PRODUCTS_DIR; };
+		40A768651BD84F21001C4A83 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4087F0371BD613A9002FE579 /* Frameworks */ = {
+		40A7685F1BD84F21001C4A83 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,94 +38,94 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4087F0311BD613A9002FE579 = {
+		40A768591BD84F21001C4A83 = {
 			isa = PBXGroup;
 			children = (
-				4087F03C1BD613A9002FE579 /* TC2017_PP2_A01021472 */,
-				4087F03B1BD613A9002FE579 /* Products */,
+				40A768641BD84F21001C4A83 /* PP2_RaspberryPiTest */,
+				40A768631BD84F21001C4A83 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4087F03B1BD613A9002FE579 /* Products */ = {
+		40A768631BD84F21001C4A83 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4087F03A1BD613A9002FE579 /* TC2017_PP2_A01021472 */,
+				40A768621BD84F21001C4A83 /* PP2_RaspberryPiTest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4087F03C1BD613A9002FE579 /* TC2017_PP2_A01021472 */ = {
+		40A768641BD84F21001C4A83 /* PP2_RaspberryPiTest */ = {
 			isa = PBXGroup;
 			children = (
-				4087F03D1BD613A9002FE579 /* main.cpp */,
+				40A768651BD84F21001C4A83 /* main.cpp */,
 			);
-			path = TC2017_PP2_A01021472;
+			path = PP2_RaspberryPiTest;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4087F0391BD613A9002FE579 /* TC2017_PP2_A01021472 */ = {
+		40A768611BD84F21001C4A83 /* PP2_RaspberryPiTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4087F0411BD613A9002FE579 /* Build configuration list for PBXNativeTarget "TC2017_PP2_A01021472" */;
+			buildConfigurationList = 40A768691BD84F21001C4A83 /* Build configuration list for PBXNativeTarget "PP2_RaspberryPiTest" */;
 			buildPhases = (
-				4087F0361BD613A9002FE579 /* Sources */,
-				4087F0371BD613A9002FE579 /* Frameworks */,
-				4087F0381BD613A9002FE579 /* CopyFiles */,
+				40A7685E1BD84F21001C4A83 /* Sources */,
+				40A7685F1BD84F21001C4A83 /* Frameworks */,
+				40A768601BD84F21001C4A83 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = TC2017_PP2_A01021472;
-			productName = TC2017_PP2_A01021472;
-			productReference = 4087F03A1BD613A9002FE579 /* TC2017_PP2_A01021472 */;
+			name = PP2_RaspberryPiTest;
+			productName = PP2_RaspberryPiTest;
+			productReference = 40A768621BD84F21001C4A83 /* PP2_RaspberryPiTest */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4087F0321BD613A9002FE579 /* Project object */ = {
+		40A7685A1BD84F21001C4A83 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = "Catalina Peralta";
 				TargetAttributes = {
-					4087F0391BD613A9002FE579 = {
+					40A768611BD84F21001C4A83 = {
 						CreatedOnToolsVersion = 7.0.1;
 					};
 				};
 			};
-			buildConfigurationList = 4087F0351BD613A9002FE579 /* Build configuration list for PBXProject "TC2017_PP2_A01021472" */;
+			buildConfigurationList = 40A7685D1BD84F21001C4A83 /* Build configuration list for PBXProject "PP2_RaspberryPiTest" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 4087F0311BD613A9002FE579;
-			productRefGroup = 4087F03B1BD613A9002FE579 /* Products */;
+			mainGroup = 40A768591BD84F21001C4A83;
+			productRefGroup = 40A768631BD84F21001C4A83 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4087F0391BD613A9002FE579 /* TC2017_PP2_A01021472 */,
+				40A768611BD84F21001C4A83 /* PP2_RaspberryPiTest */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4087F0361BD613A9002FE579 /* Sources */ = {
+		40A7685E1BD84F21001C4A83 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4087F03E1BD613A9002FE579 /* main.cpp in Sources */,
+				40A768661BD84F21001C4A83 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		4087F03F1BD613A9002FE579 /* Debug */ = {
+		40A768671BD84F21001C4A83 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -167,7 +167,7 @@
 			};
 			name = Debug;
 		};
-		4087F0401BD613A9002FE579 /* Release */ = {
+		40A768681BD84F21001C4A83 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -202,20 +202,18 @@
 			};
 			name = Release;
 		};
-		4087F0421BD613A9002FE579 /* Debug */ = {
+		40A7686A1BD84F21001C4A83 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				HEADER_SEARCH_PATHS = /Users/icaty/boost_1_59_0;
-				LIBRARY_SEARCH_PATHS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		4087F0431BD613A9002FE579 /* Release */ = {
+		40A7686B1BD84F21001C4A83 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				HEADER_SEARCH_PATHS = /Users/icaty/boost_1_59_0;
-				LIBRARY_SEARCH_PATHS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -223,25 +221,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4087F0351BD613A9002FE579 /* Build configuration list for PBXProject "TC2017_PP2_A01021472" */ = {
+		40A7685D1BD84F21001C4A83 /* Build configuration list for PBXProject "PP2_RaspberryPiTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4087F03F1BD613A9002FE579 /* Debug */,
-				4087F0401BD613A9002FE579 /* Release */,
+				40A768671BD84F21001C4A83 /* Debug */,
+				40A768681BD84F21001C4A83 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4087F0411BD613A9002FE579 /* Build configuration list for PBXNativeTarget "TC2017_PP2_A01021472" */ = {
+		40A768691BD84F21001C4A83 /* Build configuration list for PBXNativeTarget "PP2_RaspberryPiTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4087F0421BD613A9002FE579 /* Debug */,
-				4087F0431BD613A9002FE579 /* Release */,
+				40A7686A1BD84F21001C4A83 /* Debug */,
+				40A7686B1BD84F21001C4A83 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4087F0321BD613A9002FE579 /* Project object */;
+	rootObject = 40A7685A1BD84F21001C4A83 /* Project object */;
 }

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "815F081DE795DD8BDA45721AC86FB99FCAAB3074",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9C804E865BDC71A8F0417598A98A062D6B276BDF" : 0,
+    "815F081DE795DD8BDA45721AC86FB99FCAAB3074" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4DB7DDF6-2C68-4611-8F25-36DA0C1638BA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9C804E865BDC71A8F0417598A98A062D6B276BDF" : "..",
+    "815F081DE795DD8BDA45721AC86FB99FCAAB3074" : "TC2017_PP2_A01021472\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TC2017_PP2_A01021472",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TC2017_PP2_A01021472.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/catalinaperalta\/ProblemaPractico2_TC2017.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "815F081DE795DD8BDA45721AC86FB99FCAAB3074"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/catalinaperalta\/AlgoritmosDeOrdenamiento.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9C804E865BDC71A8F0417598A98A062D6B276BDF"
+    }
+  ]
+}
